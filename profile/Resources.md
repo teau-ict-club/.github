@@ -5,8 +5,6 @@
 
 <p align="center">For now, these are just random resources for anyone to use since this is a semi-public organization. <br/>There is tones of content spanning over wide topics in this page, so before digging in check out this developer <a href="https://roadmap.sh">roadmap</a> or else you will get lost in here.</p>
 
-<h5 align="end"><a href="./README.md">Go &#128281; to the main page</a></h5>
-
 
 ## Git & GitHub
 - [Git and GitHub tutorial for complete beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
@@ -42,9 +40,9 @@
 ## Video Tutorials
 
 $Intoduction- to -Web -Development$
-<p align="center">
+<!-- <p align="center"> -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dCOch0282IE?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<!-- </p> -->
 
 $Intoduction-to-Java-Programming$
 
@@ -63,5 +61,3 @@ $Intoduction-to-Java-Programming$
 - [Automated Continuous development at Heroku](https://blog.heroku.com/automated-continuous-deployment-at-heroku)
 - [Product minded software engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 
-<p align="center">more coming soon...</p>
-<h5 align="start"><a href="./README.md">Go &#128281; to the main page</a></h5>
