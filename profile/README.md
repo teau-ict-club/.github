@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./profile/src/logo-final.png">
+<img src="./src/logo-final.png">
 </p>
 <h1 align="center">Welcome To The The East African University's ICT Club </h1>
 
