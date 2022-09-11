@@ -48,4 +48,4 @@ Please be sure to check out the [Contribution Guidelines](Contributing.md).
 
 ## Support
 
-For support, email teauictclub@gmail.com or join our Slack channel.
+For support, [email](ictclub@teau.ac.ke) ictclub@teau.ac.ke or join our Slack channel.
