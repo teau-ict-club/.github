@@ -5,7 +5,7 @@
 
 # Hi! 👋
 
-This club was formed in the 2021 academic year by students and lectures to provide a link between academics and industry standards of software engineering. Learning programming as a solo affair didn't seem fun hence this community was formed. ```The core concept being to learn by doing```.
+This club was formed in the 2021 academic year by students and lecturers to provide a link between academics and industry standards of software engineering. Learning programming as a solo affair didn't seem fun hence this community was formed. ```The core concept being to learn by doing```.
 
 It goes without saying that if you encountered this organization, it wasn't by mistake so explore as much as you can!
 
