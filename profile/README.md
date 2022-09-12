@@ -27,7 +27,7 @@ If you're new to programming or software development in general, check out these
 [![logo](https://img.shields.io/youtube/channel/views/UCnsSptnhHhSqyrj7IIyQaNw?label=YouTube&style=social)](https://www.youtube.com/channel/UCnsSptnhHhSqyrj7IIyQaNw/?sub_confirmation=1)
 
 ## Contribution
-Please be sure to check out the [Contribution Guidelines](../Contributing.md).
+Please be sure to check out the [Contribution Guidelines](https://github.com/teau-ict-club/.github/blob/development/Contributing.md).
 
 
 
