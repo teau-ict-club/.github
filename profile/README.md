@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/teau-ict-club/.github/blob/development/profile/src/logo-final.png">
+<img src="https://github.com/teau-ict-club/.github/blob/main/profile/src/logo-final.png">
 </p>
 <h1 align="center">Welcome To The The East African University's ICT Club </h1>
 
@@ -19,7 +19,7 @@ We have a number of teams working on a wide array or projects. Each of these tea
     - [Graphics Design & UI/UX design](https://github.com/orgs/teau-ict-club/teams/graphics-and-ui_ux)
 
 
-If you're new to programming or software development in general, check out these [resources](https://github.com/teau-ict-club/.github/blob/development/Resources.md). They are made by people who once were where you are now.
+If you're new to programming or software development in general, check out these [resources](https://github.com/teau-ict-club/.github/blob/main/Resources.md). They are made by people who once were where you are now.
 
 ## 🔗 Socials
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/the-east-african-university/)
@@ -27,9 +27,7 @@ If you're new to programming or software development in general, check out these
 [![logo](https://img.shields.io/youtube/channel/views/UCnsSptnhHhSqyrj7IIyQaNw?label=YouTube&style=social)](https://www.youtube.com/channel/UCnsSptnhHhSqyrj7IIyQaNw/?sub_confirmation=1)
 
 ## Contribution
-Please be sure to check out the [Contribution Guidelines](https://github.com/teau-ict-club/.github/blob/development/Contributing.md).
-
-
+Please be sure to check out the [Contribution Guidelines](https://github.com/teau-ict-club/.github/blob/main/Contributing.md). Read our [Code of Conduct](https://github.com/teau-ict-club/.github/blob/main/CodeOfConduct.md) to keep our community approachable and respectable.
 
 
 
