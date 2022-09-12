@@ -67,7 +67,7 @@ The image below outlines the major idea of the working style.
 - The first two are only accessible to project maintainers who are responsible for controlling the reviewing, approving and merging of code into our codebase.
   The master branch contains our working code that should be live. The staging branch contains code that'll be tested to simulate it's performance in production. This is essentially a testing ground and is only available to select maintainers hence not much emphasis will be put here.
 
-![branches](./src/contribution.png)
+![branches](./profile/src/contribution.png)
 
 
 The development branch, on the other hand is amazing and we love this branch yay! &#128525; As a matter of fact, this is the branch we'll be using the most. 

@@ -39,20 +39,12 @@
 
 ## Video Tutorials
 
-$Intoduction- to -Web -Development$
+[Checkout our YouTube channel](https://www.youtube.com/channel/UCnsSptnhHhSqyrj7IIyQaNw/?sub_confirmation=1)
 
+[Intoduction- to -Web -Development](https://www.youtube.com/embed/dCOch0282IE?start=254)
 
-<!-- <p align="center"> -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dCOch0282IE?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!-- </p> -->
+[Intoduction-to-Java-Programming](https://www.youtube.com/embed/vZilAD9MjfU)
 
-
-
-$Intoduction-to-Java-Programming$
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vZilAD9MjfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ## Random Topics
 - [Microservices](https://martinfowler.com/articles/microservices.html)
