@@ -23,7 +23,7 @@ If you're new to programming or software development in general, check out these
 
 ## 🔗 Socials
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/the-east-african-university/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teauictclub)
 [![logo](https://img.shields.io/youtube/channel/views/UCnsSptnhHhSqyrj7IIyQaNw?label=YouTube&style=social)](https://www.youtube.com/channel/UCnsSptnhHhSqyrj7IIyQaNw/?sub_confirmation=1)
 
 ## Contribution
