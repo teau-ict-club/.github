@@ -45,3 +45,5 @@ Please be sure to check out the [Contribution Guidelines](https://github.com/tea
 ## Support
 
 For support, [email](ictclub@teau.ac.ke) ictclub@teau.ac.ke or join our Slack channel.
+
+Just sone change -tbd
